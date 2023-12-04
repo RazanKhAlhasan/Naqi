@@ -1,12 +1,11 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
+streamlit
+pandas 
+numpy 
 tensorflow
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-import emoji
-import pickle
-import string
-import os
-os.environ['KMP_DUPLICATE_LIB_OK']='True'
-import re
+tensorflow.keras.preprocessing.text 
+tensorflow.keras.preprocessing.sequence 
+emoji
+pickle
+string
+os
+re
