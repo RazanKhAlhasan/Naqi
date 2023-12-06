@@ -1,4 +1,4 @@
-Naqi Project![logo_title](https://github.com/RazanKhAlhasan/Naqi/assets/148292301/c741a65a-5461-4a91-bc65-9711789b1176)
+                                         Naqi Project![logo_title](https://github.com/RazanKhAlhasan/Naqi/assets/148292301/c741a65a-5461-4a91-bc65-9711789b1176)
 
 # Naqi
 T5 Capstone Project
