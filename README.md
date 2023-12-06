@@ -1,6 +1,3 @@
-Naqi Project
-
-
 <p align="center">
   <img src="https://github.com/RazanKhAlhasan/Naqi/assets/148292301/c741a65a-5461-4a91-bc65-9711789b1176" width="200"/>
 </p>
