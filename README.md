@@ -41,7 +41,7 @@ If you want to inquire or encounter a problem, you can contact us on these email
 
 ## Data
 - Snapchat Data Link: https://drive.google.com/drive/folders/1DK2RffCnDHD9dBgC17cTFf0doqDkadfk?usp=sharing
-- Model Link: 
+- Model Link: https://drive.google.com/file/d/1J29oM2rgjv0VhmqzaXdnjhZ-QWKkcezy/view?usp=sharing
 
 
 ## Acknowledgements
