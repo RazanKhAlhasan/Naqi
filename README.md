@@ -2,7 +2,7 @@
   <img src="https://github.com/RazanKhAlhasan/Naqi/assets/148292301/c741a65a-5461-4a91-bc65-9711789b1176" width="200"/>
 </p>
 
-# Naqi
+# Naqi ✨
 T5 Capstone Project
 
 The Naqi project aims to assist the Audiovisual Media Authority in monitoring violators of laws on social media sites. By leveraging AI Naqi filters Saudi content and displays content that violates the authority's guidelines. This approach enhances the monitoring process by making it faster and more efficient.
