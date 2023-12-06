@@ -39,6 +39,10 @@ If you want to inquire or encounter a problem, you can contact us on these email
 - Sarah Aldakhi: aldakhil.sar@gmail.com
 - Raghad Aladawi: adawi.r24@gmail.com
 
+## Data
+- Snapchat Data Link: https://drive.google.com/drive/folders/1DK2RffCnDHD9dBgC17cTFf0doqDkadfk?usp=sharing
+- Model Link: 
+
 
 ## Acknowledgements
 We would like to express our gratitude to SDAIA (Saudi Data and Artificial Intelligence Authority) for providing us with the opportunity to train and develop our skills in this project. We also thank our esteemed trainer, Ali Al-Qasas, for providing guidance and insights throughout the development of this project.
