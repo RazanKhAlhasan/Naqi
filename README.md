@@ -34,10 +34,10 @@ We welcome contributions to enhance the Naqi project. Feel free to share us any 
 
 ## Contact infromation 
 If you want to inquire or encounter a problem, you can contact us on these emails:
-Razan Alhasan: Alhasan.razan1@gmail.com
-Aseel Bin Talha: bintalhaaseel@outlook.sa
-Sarah Aldakhi: aldakhil.sar@gmail.com
-Raghad Aladawi: adawi.r24@gmail.com
+- Razan Alhasan: Alhasan.razan1@gmail.com
+- Aseel Bin Talha: bintalhaaseel@outlook.sa
+- Sarah Aldakhi: aldakhil.sar@gmail.com
+- Raghad Aladawi: adawi.r24@gmail.com
 
 
 ## Acknowledgements
