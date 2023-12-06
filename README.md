@@ -28,6 +28,9 @@ Naqi project utilizes several technologies to achieve its goals:
 - NER (Named Entity Recognition): Technique for extracting named entities from text.
 - License Checking: Integration with relevant databases or systems to verify advertiser licenses.
 
+## Data
+- Snapchat Data Link: https://drive.google.com/drive/folders/1DK2RffCnDHD9dBgC17cTFf0doqDkadfk?usp=sharing
+- Model Link: https://drive.google.com/file/d/1J29oM2rgjv0VhmqzaXdnjhZ-QWKkcezy/view?usp=sharing
 
 ## Contributing
 We welcome contributions to enhance the Naqi project. Feel free to share us any suggestions.
@@ -38,11 +41,6 @@ If you want to inquire or encounter a problem, you can contact us on these email
 - Aseel Bin Talha: bintalhaaseel@outlook.sa
 - Sarah Aldakhi: aldakhil.sar@gmail.com
 - Raghad Aladawi: adawi.r24@gmail.com
-
-## Data
-- Snapchat Data Link: https://drive.google.com/drive/folders/1DK2RffCnDHD9dBgC17cTFf0doqDkadfk?usp=sharing
-- Model Link: https://drive.google.com/file/d/1J29oM2rgjv0VhmqzaXdnjhZ-QWKkcezy/view?usp=sharing
-
 
 ## Acknowledgements
 We would like to express our gratitude to SDAIA (Saudi Data and Artificial Intelligence Authority) for providing us with the opportunity to train and develop our skills in this project. We also thank our esteemed trainer, Ali Al-Qasas, for providing guidance and insights throughout the development of this project.
