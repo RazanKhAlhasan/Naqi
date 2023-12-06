@@ -1,5 +1,5 @@
 Naqi Project
-<img src="https://github.com/RazanKhAlhasan/Naqi/assets/148292301/c741a65a-5461-4a91-bc65-9711789b1176" width="200" margin-right=-200px/>
+<img src="https://github.com/RazanKhAlhasan/Naqi/assets/148292301/c741a65a-5461-4a91-bc65-9711789b1176" width="200" margin-right="20px"/>
 # Naqi
 T5 Capstone Project
 
